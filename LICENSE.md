@@ -30,7 +30,7 @@ Your rights under these terms reflect four key principles:
 5. _Noninterference_:  You must be allowed to do whatever you please with the materials, within the law.
 
 ### Aspects
-Your rights under these terms apply the four key principles to the four key elements of computing:
+Your rights under these terms apply the five key principles to the four key elements of computing:
 
 1.  _Software_:  instructions for computers to store, process, and communicate your data
 
@@ -51,6 +51,9 @@ Your rights under these terms apply the four key principles to the four key elem
 
 ### Networking
 <!-- TODO -->
+
+### Noninterference
+User rights under these terms must be honored practically, not procedurally.  Using software, cryptography, or legal rights, such as anticircumvention laws, is not permitted.  Nor is assisting or facilitating others' violation of user rights.
 
 ## Acceptance
 In order to receive any license under these terms, you must agree to their rules.  Those rules are both obligations under an agreement among developers, providers, and users of this software, and conditions to all your licenses under these terms.  You must not do anything with this software that triggers a rule you cannot or will not follow.
