@@ -10,7 +10,7 @@ Using these terms, the creators of this software surrender the greater part of t
 
 They retain their power, and wield it through these terms, only to stop others misusing this software to deny you or others transparency or control.  They invite and empower you to defend those rights for yourself.
 
-## Rights
+<h2 id="user-rights">User Rights</h2>
 These terms terms ensure you all the following rights, so long as you respect the same rights of others.
 
 ### Purpose
@@ -60,7 +60,7 @@ Any contributor to this software, any recipient of this license, and any user of
 If any adjudicator of these terms decides than any part is invalid or unenforceable, but enforcing the rest would not defeat the purpose of these terms, the rest of these terms will still apply.
 
 ## Copyright
-Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it, so long as you respect the [Rights](#rights) of others.
+Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it, so long as you respect the [User Rights](#user-rights) of others.
 
 ## Notices
 You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <{url}>.
@@ -69,7 +69,7 @@ You must ensure that everyone who gets a copy of any part of this software from 
 If anyone notifies you in writing that you have not complied with any of these terms, you can keep your licenses by taking all practical steps to comply within 30 days after the notice.  If you do not do so, your license ends immediately.
 
 ## Patent
-Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license, so long as you respect the [Rights](#rights) of others.
+Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license, so long as you respect the [User Rights](#user-rights) of others.
 
 ## Reliability
 No contributor can revoke any license under this compact.
