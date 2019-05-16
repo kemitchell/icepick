@@ -14,7 +14,7 @@ They retain their power, and wield it through these terms, only to stop others m
 These terms terms ensure you all the following rights, so long as you respect the same rights of others.
 
 ### Purpose
-The purpose of these rights is to ensure substantially the same transparency and control you would enjoy if you ran the software entirely for yourself.
+The purpose of these rights is to ensure you the same level of control you would enjoy running the software for yourself.  They do so by ensuring you transparency---the ability to tell if others are running the software for you as you would run it for yourself---and the means to run the software for yourself instead, if they do not.
 
 ### Principles
 Your rights under these terms reflect four key principles:
