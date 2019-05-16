@@ -8,13 +8,13 @@ There are many ways to protect transparency and control for people who rely on s
 
 Using these terms, the creators of this software surrender the greater part of their power.  They make this software free for everyone to use, study, change, build on, and share.
 
-They retain their power, and wield it through these terms, only to stop others misusing this software to deny you or others transparency or control.  They invite and empower you to defend those rights for yourself.
+They retain their power, and wield it through these terms, only to stop others misusing this software to deny you transparency or control.  They invite and empower you to defend those rights for yourself.
 
 <h2 id="user-rights">User Rights</h2>
 These terms terms ensure you all the following rights, so long as you respect the same rights of others.
 
 ### Purpose
-The purpose of these rights is to give you and others who rely on this software substantially the same transparency and control you would enjoy if you ran the software entirely for yourself.
+The purpose of these rights is to give you substantially the same transparency and control you would enjoy if you ran the software entirely for yourself.
 
 ### Principles
 Your rights under these terms reflect four key principles:
@@ -25,10 +25,10 @@ Your rights under these terms reflect four key principles:
 
 3.  _Practicality_:  You must be given materials in the preferred form for storing, processing, and communicating.
 
-4.  _Permission_:  You must be given all the necessary permission for the materials to store, process, and communicate yourself.
+4.  _Permission_:  You must be given all the necessary permission to use the materials yourself.
 
 ### Aspects
-Your rights under these terms project the four key principles into four key dimensions:
+Your rights under these terms apply the four key principles into four key parts:
 
 1.  _Software_:  instructions for computers to store, process, and communicate your data
 
@@ -54,10 +54,10 @@ Your rights under these terms project the four key principles into four key dime
 In order to receive any license under these terms, you must agree to their rules.  Those rules are both obligations under an agreement among developers, providers, and users of this software, and conditions to all your licenses under these terms.  You must not do anything with this software that triggers a rule you cannot or will not follow.
 
 ## Enforcement
-Any contributor to this software, any recipient of this license, and any user of this software or software services provided with it can enforce any rule of this license.
+Any contributor to this software, any recipient of a license under these terms, and any user of this software or software services provided with it can enforce any rule of this license.
 
 ## Illegal Terms
-If any adjudicator of these terms decides than any part is invalid or unenforceable, but enforcing the rest would not defeat the purpose of these terms, the rest of these terms will still apply.
+If any adjudicator of these terms decides that any part is invalid or unenforceable, but enforcing the rest would not defeat the purpose of these terms, the rest of these terms will still apply.
 
 ## Copyright
 Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it, so long as you respect the [User Rights](#user-rights) of others.
