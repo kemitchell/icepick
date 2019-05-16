@@ -10,7 +10,7 @@ Using these terms, the creators of this software surrender the greater part of t
 
 They retain their power, and wield it through these terms, only to stop others misusing this software to deny you or others transparency or control.  They invite and empower you to defend those rights for yourself.
 
-## User Rights
+## Rights
 These terms terms ensure you all the following rights, so long as you respect the same rights of others.
 
 ### Purpose
