@@ -19,8 +19,24 @@ The purpose of these rights is to give you and others who rely on this software 
 ### Principles
 Your rights under these terms reflect four key principles:
 
+1.  _Access_:  You must be given access to the materials used to store, process, and communicate your data.
+
+2.  _Completeness_:  You must be given all the materials used.
+
+3.  _Practicality_:  You must be given materials in the preferred form for storing, processing, and communicating.
+
+4.  _Permission_:  You must be given all the necessary permission for the materials to store, process, and communicate yourself.
+
 ### Aspects
-Your rights under these terms project the four key principles into four key dimensions: software, the data it processes and stores, how that data is processed, and how the software communicates data to others.  In short: software, data, processing, and network.
+Your rights under these terms project the four key principles into four key dimensions:
+
+1.  _Software_:  instructions for computers to store, process, and communicate your data
+
+2.  _Data_:  data that you provide to the software, and data the software collects about your use 
+
+3.  _Processing_:  the computer that runs the software on your data
+
+4.  _Networking_:  the infrastructure that communicates software and data to others
 
 ### Software
 <!-- TODO: copyleft -->
