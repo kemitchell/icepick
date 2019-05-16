@@ -14,7 +14,7 @@ They retain their power, and wield it through these terms, only to stop others m
 These terms terms ensure you all the following rights, so long as you respect the same rights of others.
 
 ### Purpose
-The purpose of these rights is to give you substantially the same transparency and control you would enjoy if you ran the software entirely for yourself.
+The purpose of these rights is to ensure substantially the same transparency and control you would enjoy if you ran the software entirely for yourself.
 
 ### Principles
 Your rights under these terms reflect four key principles:
@@ -27,8 +27,10 @@ Your rights under these terms reflect four key principles:
 
 4.  _Permission_:  You must be given all the necessary permission to use the materials yourself.
 
+5. _Noninterference_:  You must be allowed to do whatever you please with the materials, within the law.
+
 ### Aspects
-Your rights under these terms apply the four key principles to four key aspects:
+Your rights under these terms apply the four key principles to the four key elements of computing:
 
 1.  _Software_:  instructions for computers to store, process, and communicate your data
 
@@ -47,17 +49,17 @@ Your rights under these terms apply the four key principles to four key aspects:
 ### Processing
 <!-- TODO -->
 
-### Network
+### Networking
 <!-- TODO -->
 
 ## Acceptance
 In order to receive any license under these terms, you must agree to their rules.  Those rules are both obligations under an agreement among developers, providers, and users of this software, and conditions to all your licenses under these terms.  You must not do anything with this software that triggers a rule you cannot or will not follow.
 
 ## Enforcement
-Any contributor to this software, any recipient of a license under these terms, and any user of this software or software services provided with it can enforce any rule of this license.
+Any contributor to this software, anyone with a license under these terms, and any user of this software or software services provided with it can enforce any rule of this license.
 
 ## Legality
-Every rule of these terms is qualified by the law.  If following a rule of these terms would be illegal, these terms do not require you to break the law.  If any adjudicator of these terms decides that any part is unenforceable, but enforcing the rest would not defeat the purpose of these terms, the rest of these terms will still apply.
+Every rule of these terms is qualified by the law.  If following a rule of these terms would break the law, these terms do not require you to break the law.  If any adjudicator of these terms decides that any part is unenforceable, but enforcing the rest would not defeat the purpose of these terms, the rest of these terms will still apply.
 
 ## Copyright
 Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it, so long as you respect the [User Rights](#user-rights) of others.
@@ -66,13 +68,13 @@ Each contributor licenses you to do everything with this software that would oth
 You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <{url}>.
 
 ## Excuse
-If anyone notifies you in writing that you have not complied with any of these terms, you can keep your licenses by taking all practical steps to comply within 30 days after the notice.  If you do not do so, your license ends immediately.
+If anyone notifies you in writing that you have broken any rule of these terms, you can remain a part of the agreement among developers, providers, and users, and keep your licenses under these terms, by taking all practical steps to comply within 30 days after the notice.  If you do not do so, your participation in the agreement, and all your licenses under these terms, end immediately.
 
 ## Patent
 Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license, so long as you respect the [User Rights](#user-rights) of others.
 
 ## Reliability
-No contributor can revoke any license under this compact.
+No contributor can revoke any license under these terms.
 
 ## No Liability
-***As far as the law allows, this software comes as is, without any warranty or condition, and no contributor will be liable to anyone for any damages related to this software or this license, under any kind of legal claim.  This rule does not apply to claims against contributors for breaking the rules of these terms.***
+***As far as the law allows, this software comes as is, without any warranty or condition, and no contributor will be liable to anyone for any damages related to this software or these terms, under any kind of legal claim.  This rule does not apply to claims against contributors for breaking the rules of these terms.***
