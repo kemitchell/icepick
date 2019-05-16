@@ -10,7 +10,7 @@ Using these terms, the creators of this software surrender the greater part of t
 
 They retain their power, and wield it through these terms, only to stop others misusing this software to deny you transparency or control.  They invite and empower you to defend those rights for yourself.
 
-<h2 id="user-rights">User Rights</h2>
+## <a id="user-rights">User Rights</a>
 These terms terms ensure you all the following rights, so long as you respect the same rights of others.
 
 ### Purpose
@@ -19,16 +19,16 @@ The purpose of these rights is to give you substantially the same transparency a
 ### Principles
 Your rights under these terms reflect four key principles:
 
-1.  _Access_:  You must be given access to the materials used to store, process, and communicate your data.
+1.  _Access_:  You must be given the materials used to store, process, and communicate your data.
 
 2.  _Completeness_:  You must be given all the materials used.
 
-3.  _Practicality_:  You must be given materials in the preferred form for storing, processing, and communicating.
+3.  _Practicality_:  You must be given materials in the preferred form for using them.
 
 4.  _Permission_:  You must be given all the necessary permission to use the materials yourself.
 
 ### Aspects
-Your rights under these terms apply the four key principles into four key parts:
+Your rights under these terms apply the four key principles to four key aspects:
 
 1.  _Software_:  instructions for computers to store, process, and communicate your data
 
@@ -56,8 +56,8 @@ In order to receive any license under these terms, you must agree to their rules
 ## Enforcement
 Any contributor to this software, any recipient of a license under these terms, and any user of this software or software services provided with it can enforce any rule of this license.
 
-## Illegal Terms
-If any adjudicator of these terms decides that any part is invalid or unenforceable, but enforcing the rest would not defeat the purpose of these terms, the rest of these terms will still apply.
+## Legality
+Every rule of these terms is qualified by the law.  If following a rule of these terms would be illegal, these terms do not require you to break the law.  If any adjudicator of these terms decides that any part is unenforceable, but enforcing the rest would not defeat the purpose of these terms, the rest of these terms will still apply.
 
 ## Copyright
 Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it, so long as you respect the [User Rights](#user-rights) of others.
