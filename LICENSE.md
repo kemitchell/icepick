@@ -14,56 +14,59 @@ They retain their power, and wield it through these terms, only to stop others m
 These terms terms ensure you all the following rights, so long as you respect the same rights of others.
 
 ### Purpose
-The purpose of these rights is to ensure you the same level of control you would enjoy running the software for yourself.  They do so by ensuring you fundamental protections:
+The purpose of these rights is to ensure you the same level of control you would enjoy running the software for yourself.
 
-1.  _Transparency_: the ability to tell if others are using the software for you as you would use it for yourself
+### Framework
+These rights serve their purpose by applying key principles:
 
-2.  _Independence_: the means to use the software for yourself instead, if they do not
+- _Transparency_:  You must have the ability to tell if others are using the software for you as you would use it for yourself.
 
-3.  _Accountability_: the ability to punish those who mislead you about how they use the software
+- _Accountability_:  Those who mislead you about how they use the software for you must face consequences.
 
-### Principles
-Your rights under these terms reflect key principles:
+- _Independence_:  You must have the means to use the software for yourself, or have someone else use it for you.
 
-1.  _Access_:  You must be given the materials used to store, process, and communicate your data.
+These terms apply those principles through a number of practical requirements:
 
-2.  _Information_:  You must be given information about how those materials are used on your behalf.
+-  _Disclosure_:  You must be given information about the storage, process, communication of your data, and the environment in which that occurs.
 
-3.  _Completeness_:  You must be given all the materials used.
+-  _Completeness_:  You must be given all necessary information.
 
-4.  _Practicality_:  You must be given materials in the preferred form for using them.
+-  _Practicality_:  You must be given information in the preferred form for use.
 
-5.  _Permission_:  You must be given all the necessary permission to use the materials yourself.
+-  _Permission_:  You must be given all the necessary permission to use the information yourself.
 
-6. _Noninterference_:  You must be allowed to do whatever you please with the materials, within the law.
+-  _Noninterference_:  You must be allowed to do whatever you please with the information, within the law.
 
-### Aspects
-Your rights under these terms apply the key principles to the elements of computing:
+### Rules
+Your user rights under these terms apply each of the techniques to each of the elements of computing: [Software](#software), [Data](#data), [Processing](#processing), [Networking](#networking), and [Environment](#environment).
 
-1.  _Software_:  instructions for computers to store, process, and communicate your data
+#### Software
+<!-- TODO software disclosure rules -->
+<!-- TODO software completeness rules -->
+<!-- TODO software practicality rules -->
+<!-- TODO software permission rules -->
+<!-- TODO software noninterference rules -->
 
-2.  _Data_:  data that you provide to the software, and data the software collects about your use 
+#### Data
+<!-- TODO data disclosure rules -->
+<!-- TODO data completeness rules -->
+<!-- TODO data practicality rules -->
+<!-- TODO data permission rules -->
+<!-- TODO data noninterference rules -->
 
-3.  _Processing_:  the computer that runs the software on your data
+#### Processing
+<!-- TODO processing disclosure rules -->
+<!-- TODO processing completeness rules -->
+<!-- TODO processing practicality rules -->
+<!-- TODO processing permission rules -->
+<!-- TODO processing noninterference rules -->
 
-4.  _Networking_:  the infrastructure that communicates software and data to others
-
-5.  _Environment_: the legal and other essential context in which computing happens
-
-### Software
-<!-- TODO -->
-
-### Data
-<!-- TODO -->
-
-### Processing
-<!-- TODO -->
-
-### Networking
-<!-- TODO -->
-
-### Noninterference
-User rights under these terms must be honored practically, not procedurally.  Using software, cryptography, or legal rights, such as anticircumvention laws, is not permitted.  Nor is assisting or facilitating others' violation of user rights.
+#### Networking
+<!-- TODO networking disclosure rules -->
+<!-- TODO networking completeness rules -->
+<!-- TODO networking practicality rules -->
+<!-- TODO networking permission rules -->
+<!-- TODO networking noninterference rules -->
 
 ## Acceptance
 In order to receive any license under these terms, you must agree to their rules.  Those rules are both obligations under an agreement among developers, providers, and users of this software, and conditions to all your licenses under these terms.  You must not do anything with this software that triggers a rule you cannot or will not follow.
