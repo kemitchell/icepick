@@ -4,7 +4,7 @@ Version {version}
 ## Purpose
 This is a weapon of mass user protection.
 
-There are many ways to protect users' control over the software they rely on.  These terms leverage the power vested in software creators by intellectual property law to demand transparency and accountability for those they serve.
+There are many ways to protect users' control over the software they rely on.  These terms leverage the power vested in software creators by intellectual property law to demand transparency, accountability, and independence for users.
 
 Using these terms, the creators of this software surrender the greater part of their power.  They make this software free for everyone to use, study, change, build on, and share.
 
