@@ -8,13 +8,13 @@ There are many ways to protect control for people who rely on software.  These t
 
 Using these terms, the creators of this software surrender the greater part of their power.  They make this software free for everyone to use, study, change, build on, and share.
 
-They retain their power, and wield it through these terms, only to stop others misusing this software to deny you control.  They invite and empower you to defend those rights for yourself.
+They retain their power, and wield it through these terms, only to stop others misusing this software to deny you control.  They invite and empower you to defend your right to control for yourself.
 
 ## <a id="user-rights">User Rights</a>
 These terms terms ensure you all the following rights, so long as you respect the same rights of others.
 
 ### Purpose
-The purpose of these rights is to ensure you the same level of control you would enjoy running the software for yourself.  They do so by ensuring you four fundamental protections:
+The purpose of these rights is to ensure you the same level of control you would enjoy running the software for yourself.  They do so by ensuring you fundamental protections:
 
 1.  _Transparency_: the ability to tell if others are using the software for you as you would use it for yourself
 
@@ -23,7 +23,7 @@ The purpose of these rights is to ensure you the same level of control you would
 3.  _Accountability_: the ability to punish those who mislead you about how they use the software
 
 ### Principles
-Your rights under these terms reflect four key principles:
+Your rights under these terms reflect key principles:
 
 1.  _Access_:  You must be given the materials used to store, process, and communicate your data.
 
@@ -38,7 +38,7 @@ Your rights under these terms reflect four key principles:
 6. _Noninterference_:  You must be allowed to do whatever you please with the materials, within the law.
 
 ### Aspects
-Your rights under these terms apply the five key principles to the four key elements of computing:
+Your rights under these terms apply the key principles to the elements of computing:
 
 1.  _Software_:  instructions for computers to store, process, and communicate your data
 
@@ -47,6 +47,8 @@ Your rights under these terms apply the five key principles to the four key elem
 3.  _Processing_:  the computer that runs the software on your data
 
 4.  _Networking_:  the infrastructure that communicates software and data to others
+
+5.  _Environment_: the legal and other essential context in which computing happens
 
 ### Software
 <!-- TODO -->
