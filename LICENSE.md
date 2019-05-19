@@ -21,7 +21,7 @@ These rights serve their purpose by applying key principles:
 
 - _Transparency_:  You must have the ability to tell if others are using the software for you as you would use it for yourself.
 
-- _Accountability_:  Those who mislead you about how they use the software for you must face consequences.
+- _Accountability_:  Those who mislead you, instead of providing true transparency, must face consequences.
 
 - _Independence_:  You must have the means to use the software for yourself, or have someone else use it for you.
 
