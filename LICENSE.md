@@ -37,15 +37,24 @@ These terms apply those principles through a number of practical requirements:
 
 -  _Noninterference_:  You must be allowed to do whatever you please with the information, within the law.
 
-### Rules
 Your user rights under these terms apply each of the techniques to each of the elements of computing: [Software](#software), [Data](#data), [Processing](#processing), [Networking](#networking), and [Environment](#environment).
 
-#### Software
-<!-- TODO software disclosure rules -->
-<!-- TODO software completeness rules -->
-<!-- TODO software practicality rules -->
-<!-- TODO software permission rules -->
-<!-- TODO software noninterference rules -->
+### Software
+
+#### Copyleft
+With the sole exception of [Prototypes](#prototypes), users of this software must contribute all software that invokes this software's functionality, as well as changes and additions to this software, according to [Contributing](#contributing).
+
+#### Prototypes
+Users of this software need not contribute prototype changes, extensions, or applications that they do not end up using for more than fourteen calendar days, share with anyone else, or use to provide a service to anyone else.
+
+#### Contributing
+When this license requires you to contribute software, take all the following steps within thirty calendar days of creating or using the software for the first time:
+
+1.  Publish all source code for the software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so others can find and copy it.
+
+2.  Promptly answer written requests for the address of the location where you have published the software.
+
+3.  Ensure that each part of the source code for the software is licensed to the public under these terms.
 
 #### Data
 <!-- TODO data disclosure rules -->
