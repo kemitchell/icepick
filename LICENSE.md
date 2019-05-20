@@ -13,7 +13,6 @@ They retain their power, and wield it through these terms, only to stop others m
 ## <a id="user-rights">User Rights</a>
 These terms terms ensure you all the following rights, so long as you respect the same rights of others.
 
-### Purpose
 The purpose of these rights is to ensure you the same level of control you would enjoy running the software for yourself.
 
 ### Framework
