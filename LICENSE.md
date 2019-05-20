@@ -57,11 +57,22 @@ When these terms require you to contribute software, take all the following step
 3.  Ensure that each part of the source code for the software is licensed to the public under these terms.
 
 ### Data
-<!-- TODO data disclosure rules -->
-<!-- TODO data completeness rules -->
-<!-- TODO data practicality rules -->
-<!-- TODO data permission rules -->
-<!-- TODO data noninterference rules -->
+
+#### Dataleft
+Users of this software must provide all the following data to users that rely on it to leverage this software's functionality, on their request, according to [Providing](#providing):
+
+1.  Data they provide to this software.
+
+2.  Data the software collects about their use of this software.
+
+3.  Data this software requires, in addition to 1 and 2, to provide its functionality.
+
+#### Providing
+When these terms require you to provide data:
+
+1.  Provide complete copies of all the data, in the preferred form for processing with this software, through a freely accessible distribution system widely used for data of the kind.
+
+2.  Disclaim any rights you may have in the data by providing it under the terms of Creative Commons' CC0 1.0 Universal public domain dedication.
 
 ### Processing
 <!-- TODO processing disclosure rules -->
