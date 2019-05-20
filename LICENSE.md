@@ -48,7 +48,7 @@ With the sole exception of [Prototypes](#prototypes), users of this software mus
 Users of this software need not contribute prototype changes, extensions, or applications that they do not end up using for more than fourteen calendar days, share with anyone else, or use to provide a service to anyone else.
 
 #### Contributing
-When this license requires you to contribute software, take all the following steps within thirty calendar days of creating or using the software for the first time:
+When these terms require you to contribute software, take all the following steps within thirty calendar days of creating or using the software for the first time:
 
 1.  Publish all source code for the software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so others can find and copy it.
 
@@ -81,7 +81,7 @@ When this license requires you to contribute software, take all the following st
 In order to receive any license under these terms, you must agree to their rules.  Those rules are both obligations under an agreement among developers, providers, and users of this software, and conditions to all your licenses under these terms.  You must not do anything with this software that triggers a rule you cannot or will not follow.
 
 ## Enforcement
-Any contributor to this software, anyone with a license under these terms, and any user of this software or software services provided with it can enforce any rule of this license.
+Any contributor to this software, anyone with a license under these terms, and any user of this software or software services provided with it can enforce any rule of these terms.
 
 ## Legality
 Every rule of these terms is qualified by the law.  If following a rule of these terms would break the law, these terms do not require you to break the law.  If any adjudicator of these terms decides that any part is unenforceable, but enforcing the rest would not defeat the purpose of these terms, the rest of these terms will still apply.
@@ -90,7 +90,7 @@ Every rule of these terms is qualified by the law.  If following a rule of these
 Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it, so long as you respect the [User Rights](#user-rights) of others.
 
 ## Notices
-You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <{url}>.
+You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of these terms or a link to <{url}>.
 
 ## Excuse
 If anyone notifies you in writing that you have broken any rule of these terms, you can remain a part of the agreement among developers, providers, and users, and keep your licenses under these terms, by taking all practical steps to comply within 30 days after the notice.  If you do not do so, your participation in the agreement, and all your licenses under these terms, end immediately.
