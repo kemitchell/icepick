@@ -37,7 +37,12 @@ These terms apply those principles through a number of practical requirements:
 
 -  _Noninterference_:  You must be allowed to do whatever you please with the information, within the law.
 
-Your user rights under these terms apply each of the techniques to each of the elements of computing: [Software](#software), [Data](#data), [Processing](#processing), [Networking](#networking), and [Environment](#environment).
+Your user rights under these terms apply each of the techniques to each of the elements of computing: [Software](#software), [Data](#data), [Processing](#processing), [Networking](#networking), and [Environment](#environment).  Rules for each are subject to a [general rule on noninterference](#noninterference).
+
+### Noninterference
+When you can meet a requirement under [User Rights](#user-rights) with functionality of this software, you must do so.
+
+You may not disable features of this software that meet those requirements, or use other technical, legal, or practical means to stop other users from using them effectively.
 
 ### Software
 
