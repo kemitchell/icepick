@@ -56,21 +56,21 @@ When this license requires you to contribute software, take all the following st
 
 3.  Ensure that each part of the source code for the software is licensed to the public under these terms.
 
-#### Data
+### Data
 <!-- TODO data disclosure rules -->
 <!-- TODO data completeness rules -->
 <!-- TODO data practicality rules -->
 <!-- TODO data permission rules -->
 <!-- TODO data noninterference rules -->
 
-#### Processing
+### Processing
 <!-- TODO processing disclosure rules -->
 <!-- TODO processing completeness rules -->
 <!-- TODO processing practicality rules -->
 <!-- TODO processing permission rules -->
 <!-- TODO processing noninterference rules -->
 
-#### Networking
+### Networking
 <!-- TODO networking disclosure rules -->
 <!-- TODO networking completeness rules -->
 <!-- TODO networking practicality rules -->
