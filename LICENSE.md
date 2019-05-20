@@ -10,7 +10,7 @@ Through these terms, the creators of this software surrender the greater part of
 
 They retain their power, and wield it through these terms, only to stop others misusing this software to deny you control.  They invite and empower you to defend your right to control for yourself.
 
-## <a id="user-rights">User Rights</a>
+## User Rights
 These terms terms ensure you all the following rights, so long as you respect the same rights of others.
 
 The purpose of these rights is to ensure you the same level of control you would enjoy running the software for yourself.
