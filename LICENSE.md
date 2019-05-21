@@ -69,7 +69,7 @@ You must disclose all of any other user's data, on their request.  A user's data
 3.  Data required, in addition to 1 and 2, for the user to provide the same functionality running the software for themself that you have provided running the software for them.
 
 ### Transparency
-You must answer all the following questions from other users relying on this software:
+You must disclose complete and accurate answers to all the following questions from other users relying on this software:
 
 #### Processing
 
@@ -91,15 +91,14 @@ You must answer all the following questions from other users relying on this sof
 
 3.  What organizations, like computing platform providers, have custody or control over the systems processing their data?
 
-#### Answering
+#### Disclosure
+When these terms require you to disclose information:
 
-When these terms require you to answer another user's question:
-
-1.  Take reasonable steps to verify the identity of the user asking the question.
+1.  Take reasonable steps to verify the identity of the requesting user.
 
 2.  If possible, provide them copies of all the information as digital data in the preferred form for processing with this software.  Otherwise, provide them copies of all the information in standard digital formats widely used for data of the kind.
 
-3.  Provide them the information through a widely used, freely accessible, private messaging system that provides reasonable assurances of confidentiality.  You may require them to reimburse your reasonable expenses of providing copies, and they must reimburse you as agreed.
+3.  Provide them the information through a widely used, freely accessible, confidential messaging system that provides reasonable assurances that only the requesting user will receive the information.  You may require them to reimburse your reasonable expenses of providing copies, and they must reimburse you as agreed.
 
 4.  License, disclaim, or dedicate to the public domain all exclusive rights you may have in the information.
 
