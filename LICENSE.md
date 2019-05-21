@@ -4,16 +4,14 @@ Version {version}
 ## Purpose
 This is a weapon of mass user protection.
 
-There are many ways to protect users' control over the software they rely on.  These terms leverage the power vested in software creators by intellectual property law to demand transparency, accountability, and independence for users.
+There are many ways to protect individual's control over the software they rely on.  These terms leverage the power vested in software creators by intellectual property law to demand transparency, accountability, and independence for those who depend on the creators' work.
 
 Through these terms, the creators of this software surrender the greater part of their power.  They make this software free for everyone to use, study, change, build on, and share.
 
-They retain their power, and wield it through these terms, only to stop others misusing this software to deny you control.  They invite and empower you to defend your right to control for yourself.
+They retain their power, and wield it through these terms, only to stop others misusing this software to deny you transparency, accountability, or control.  They invite and empower you to defend your rights for yourself.
 
-## User Rights
-These terms terms ensure you all the following rights, so long as you respect the same rights of others.
-
-The purpose of these rights is to ensure you the same level of control you would enjoy running the software for yourself.
+## Rights
+The purpose of these rights is to ensure you the same level of control you would enjoy running the software for yourself.  In using this software, you must respect these rights of others, as they must respect these rights of yours.
 
 ### Framework
 These rights serve their purpose by applying key principles:
@@ -39,9 +37,9 @@ These terms apply those principles through a number of practical requirements:
 Your user rights under these terms apply each of the techniques to each of the elements of computing: [Software](#software), [Data](#data), [Processing](#processing), [Networking](#networking), and [Environment](#environment).  Rules for each are subject to a [general rule on noninterference](#noninterference).
 
 ### Noninterference
-When you can meet a requirement under [User Rights](#user-rights) with functionality of this software, you must do so.
+When you can meet a requirement under [Rights](#rights) with functionality of this software, you must do so.
 
-You may not disable features of this software that meet those requirements, or use other technical, legal, or practical means to stop other users from using them effectively.
+You may not disable or limit such functionality of this software without adding substitute functionality at least as effective and convenient.  You may not use other technical, legal, or practical means to stop others from using such functionality effectively and conveniently.
 
 ### Software
 
@@ -49,25 +47,25 @@ You may not disable features of this software that meet those requirements, or u
 With the sole exception of [Prototypes](#prototypes), users of this software must contribute all software that invokes this software's functionality, as well as changes and additions to this software, according to [Contributing](#contributing).
 
 #### Prototypes
-Users of this software need not contribute prototype changes, extensions, or applications that they do not end up using for more than fourteen calendar days, share with anyone else, or use to provide a service to anyone else.
+Users of this software need not contribute prototype changes, extensions, or applications that they do not end up using for more than fourteen calendar days, share with anyone else, or using to process others' data.
 
 #### Contributing
 When these terms require you to contribute software, take all the following steps within thirty calendar days of creating or using the software for the first time:
 
-1.  Publish all source code for the software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so others can find and copy it.
+1.  Publish all source code for the software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so others can find and access it.
 
-2.  Promptly answer written requests for the address of the location where you have published the software.
+2.  Promptly answer requests for directions to the location where you have published the source code.
 
 3.  Ensure that each part of the source code for the software is licensed to the public under these terms.
 
 ### Data
-You must disclose all of a user's data, on their request, according to [Disclosure](#disclosure).  A user's data includes:
+You must disclose all of any user's data, on their request, according to [Disclosure](#disclosure).  A user's data includes:
 
-1.  Data they provide to this software.
+1.  Data they have provided to this software that it stores.
 
-2.  Data the software collects about their use of this software.
+2.  Data the software has collected and stored about their use of this software.
 
-3.  Data this software requires, in addition to 1 and 2, to provide its functionality.
+3.  Data required, in addition to 1 and 2, for the user to provide the same functionality running the software for themself that you have provided running the software for them.
 
 ### Information
 You must answers all the following questions from users relying on this software, on their request, according to [Disclosure](#disclosure):
@@ -75,10 +73,12 @@ You must answers all the following questions from users relying on this software
 #### Processing
 
 1.  What architecture, operating system, and other specifications would I need to procure a system to run this software as you have?
+2.  What configuration would I need to configure such a system to run this software as you do?
 
 #### Networking
 
 1.  What are the network addresses of the systems you are using to process my data?
+2.  What organizations, like Internet service providers, have custody over the systems connecting the systems processing my data to the systems I use to interact with them?
 
 #### Environment
 
@@ -95,7 +95,7 @@ When these terms require you to answer a user question:
 
 2.  If possible, provide complete copies of all the information as digital data in the preferred form for processing with this software.  Otherwise, provide complete copies of all the information in standard digital formats widely used for data of the kind.
 
-3.  Disclose the information to the requesting user through a widely used, freely accessible private messaging system that provides reasonable assurances of confidentiality.
+3.  Provide the information to the requesting user through a widely used, freely accessible private messaging system that provides reasonable assurances of confidentiality.  You may require the user to pay or reimburse your reasonable expenses of providing copies.
 
 4.  License, disclaim, or dedicate to the public domain all exclusive rights you may have in the data.
 
