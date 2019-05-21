@@ -43,10 +43,10 @@ When you can meet a requirement under [Rights](#rights) with functionality of th
 ### Software
 
 #### Copyleft
-With the sole exception of prototypes, you must contribute all software that invokes this software's functionality, as well as changes and additions to this software.
+With the sole exception of prototypes, you must contribute all changes and additions to this software, as well as all software that invokes this software's functionality.
 
 #### Prototypes
-You need not contribute prototype changes, extensions, or applications that you do not end up using for more than fourteen calendar days, share with anyone else, or using to process anyone else's data.
+You need not contribute prototype changes, extensions, or other software that you do not use for more than fourteen calendar days, share with anyone else, or use to process anyone else's data.
 
 #### Contributing
 When these terms require you to contribute software, take all the following steps within thirty calendar days of creating or using that software for the first time:
