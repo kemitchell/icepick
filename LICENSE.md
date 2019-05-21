@@ -38,7 +38,7 @@ Rules of these terms apply these principles to each element of computing---softw
 -  _Noninterference_:  You must not be stopped receiving or using this software, your data, or the information you require.
 
 ### Noninterference
-When you can meet a requirement under [Rights](#rights) with functionality of this software, you must do so.  You may not disable or limit such functionality without adding substitute functionality at least as effective and convenient.  You may not use other technical, legal, or practical means to stop others from using such functionality effectively and conveniently.  Nor may you use technical, legal, or practical means to stop others from exercising their rights by other means.
+When you can honor the right of a user under these terms with existing functionality of this software, you must do so.  You may not disable or limit such functionality without adding substitute functionality at least as effective and convenient.  You may not use other technical, legal, or practical means to stop others from using such functionality effectively and conveniently.  Nor may you use technical, legal, or practical means to stop others from exercising their rights by other means.
 
 ### Software
 
