@@ -4,45 +4,46 @@ Version {version}
 ## Purpose
 This is a weapon of mass user protection.
 
-There are many ways to protect individual's control over the software they rely on.  These terms leverage the power vested in software creators by intellectual property law to demand transparency, accountability, and independence for those who depend on the creators' work.
+There are many ways to protect individual's control over the software they rely on.  These terms leverage the power vested in software creators by intellectual property law to demand transparency, accountability, and independence for those depending on their work.
 
 Through these terms, the creators of this software surrender the greater part of their power.  They make this software free for everyone to use, study, change, build on, and share.
 
 They retain their power, and wield it through these terms, only to stop others misusing this software to deny you transparency, accountability, or control.  They invite and empower you to defend your rights for yourself.
 
 ## Agreement
-
-In order to receive any license under these terms, you must agree to their rules.  Those rules are both obligations under an agreement among developers, providers, and users of this software, and conditions to all your licenses under these terms.  You must not do anything with this software that triggers a rule you cannot or will not follow.
+In order to receive any license under these terms, you must agree to their rules.  Those rules are both obligations under an agreement among developers, distributors, and users of this software, and conditions to all your licenses under these terms.  You must not do anything with this software that triggers a rule you cannot or will not follow.
 
 ## Rights
-The purpose of these rights is to ensure you and others the same level of control you would enjoy running the software for yourselves.  In using this software, you must respect these rights of others, as they must respect these rights of yours.
+The purpose of these rights is to ensure you and others the same level of control you would enjoy running the software for yourselves when it is run for you by others.  In using this software, you must respect these rights of others, as they must respect these rights of yours.
 
 ### Framework
 Control over software run by others must follow three principles:
 
 - _Transparency_:  You must be able to tell if others are running this software for you as you would run it for yourself.
+
 - _Accountability_:  Those who mislead you must face consequences.
-- _Independence_:  If you decide that others aren't running this software for you as you would for yourself, you must be able to switch to running this software for yourself, or to having someone different do so for you.
 
-Rights under these terms apply principles to each element of computing, software](#software), data, processing, networking, and environment, backed by a general rule against interference.  The rules sound in a number of themes:
+- _Independence_:  If you decide that others aren't running this software for you as you would for yourself, you must be able to switch to running this software for yourself, or to having someone different run it for you, without loss of functionality or data.
 
--  _Disclosure_:  You must have information about the storage, processing, and communication of your data, as well as the environment in which those occur.
+Rules of these terms apply these principles to each element of computing---software, data, processing, networking, and environment---all backed by a general rule against interference.  The rules sound in a number of themes:
+
+-  _Disclosure_:  You must have information about the processing and communication of your data, the environments in which that occurs, and the software used to accomplish it.
 
 -  _Completeness_:  You must have all information necessary to assess whether others are running this software for you as you would run it for yourself.
 
--  _Practicality_:  You must have that information in the preferred form for use.
+-  _Practicality_:  You must have that information in the most practical formats.
 
 -  _Permission_:  You must have all necessary permission to use that information.
 
 -  _Noninterference_:  You must not be stopped receiving or using this software, your data, or the information you require.
 
 ### Noninterference
-When you can meet a requirement under [Rights](#rights) with functionality of this software, you must do so.  You may not disable or limit such functionality of this software without adding substitute functionality at least as effective and convenient.  You may not use other technical, legal, or practical means to stop others from using such functionality effectively and conveniently.  Nor may you use technical, legal, or practical means to stop others from exercising their rights by other means than functionality of this software.
+When you can meet a requirement under [Rights](#rights) with functionality of this software, you must do so.  You may not disable or limit such functionality without adding substitute functionality at least as effective and convenient.  You may not use other technical, legal, or practical means to stop others from using such functionality effectively and conveniently.  Nor may you use technical, legal, or practical means to stop others from exercising their rights by other means.
 
 ### Software
 
 #### Copyleft
-With the sole exception of [Prototypes](#prototypes), you must contribute all software that invokes this software's functionality, as well as changes and additions to this software, according to [Contributing](#contributing).
+With the sole exception of prototypes, you must contribute all software that invokes this software's functionality, as well as changes and additions to this software.
 
 #### Prototypes
 You need not contribute prototype changes, extensions, or applications that you do not end up using for more than fourteen calendar days, share with anyone else, or using to process anyone else's data.
@@ -51,12 +52,15 @@ You need not contribute prototype changes, extensions, or applications that you 
 When these terms require you to contribute software, take all the following steps within thirty calendar days of creating or using that software for the first time:
 
 1.  Publish all source code for the software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so others can find and access it.
+
 2.  Promptly answer requests for directions to the location where you have published the source code.
+
 3.  Ensure that each part of the source code for the software that you can license is licensed to the public under these terms.
+
 4.  Ensure that each part of the source code that you can't license, such as work by others, is available on standardized, gratis public license terms that permit using, studying, changing, building on, and sharing together as part of this software, under these terms.
 
 ### Data
-You must disclose all of any other user's data, on their request, according to [Disclosure](#disclosure).  A user's data includes:
+You must disclose all of any other user's data, on their request.  A user's data includes:
 
 1.  Data they have provided to this software, which this software has stored.
 
@@ -65,16 +69,18 @@ You must disclose all of any other user's data, on their request, according to [
 3.  Data required, in addition to 1 and 2, for the user to provide the same functionality running the software for themself that you have provided running the software for them.
 
 ### Transparency
-You must answers all the following questions from other users relying on this software, on their request, according to [Disclosure](#disclosure):
+You must answer all the following questions from other users relying on this software:
 
 #### Processing
 
 1.  What architecture, operating system, and other specifications would they need to procure a system to run this software as you have?
+
 2.  What configuration would they need to configure such a system to run this software as you do?
 
 #### Networking
 
 1.  What are the network addresses of the systems you are using to process their data?
+
 2.  What organizations, like Internet service providers, have custody over the systems connecting the systems processing their data to the systems they use to interact with them?
 
 #### Environment
@@ -85,7 +91,7 @@ You must answers all the following questions from other users relying on this so
 
 3.  What organizations, like computing platform providers, have custody or control over the systems processing their data?
 
-#### Disclosure
+#### Answering
 
 When these terms require you to answer another user's question:
 
