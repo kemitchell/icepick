@@ -106,7 +106,7 @@ Any contributor to this software, anyone with a license under these terms, and a
 The law qualifies every rule of these terms.  If following a rule absolutely would break the law, these terms only require you to follow the rule to the extent you can legally.  If any adjudicator of these terms decides that any rule is completely unenforceable in its jurisdiction, but enforcing the rest would not defeat the purpose of these terms, the rest of these terms will still apply.
 
 ## Copyright
-Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it, so long as you respect the [Rights](#rights) of others.
+Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it, so long as you respect [the rights of others under these terms](#rights).
 
 ## Notices
 You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of these terms or a link to <{url}>.
@@ -115,7 +115,7 @@ You must ensure that everyone who gets a copy of any part of this software from 
 If anyone notifies you in writing that you have broken any rule of these terms, you can remain a part of the agreement, and keep your licenses under it, by taking all practical steps to comply within 30 days after the notice.  If you do not do so, your participation in the agreement, and all your licenses under these terms, end immediately.
 
 ## Patent
-Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license, so long as you respect the [Rights](#rights) of others.
+Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license, so long as you respect [the rights of others under these terms](#rights).
 
 ## Reliability
 No contributor can revoke any license under these terms.
