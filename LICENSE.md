@@ -10,6 +10,10 @@ Through these terms, the creators of this software surrender the greater part of
 
 They retain their power, and wield it through these terms, only to stop others misusing this software to deny you transparency, accountability, or control.  They invite and empower you to defend your rights for yourself.
 
+## Acceptance
+
+In order to receive any license under these terms, you must agree to their rules.  Those rules are both obligations under an agreement among developers, providers, and users of this software, and conditions to all your licenses under these terms.  You must not do anything with this software that triggers a rule you cannot or will not follow.
+
 ## Rights
 The purpose of these rights is to ensure you the same level of control you would enjoy running the software for yourself.  In using this software, you must respect these rights of others, as they must respect these rights of yours.
 
@@ -98,9 +102,6 @@ When these terms require you to answer a user question:
 3.  Provide the information to the requesting user through a widely used, freely accessible private messaging system that provides reasonable assurances of confidentiality.  You may require the user to pay or reimburse your reasonable expenses of providing copies.
 
 4.  License, disclaim, or dedicate to the public domain all exclusive rights you may have in the data.
-
-## Acceptance
-In order to receive any license under these terms, you must agree to their rules.  Those rules are both obligations under an agreement among developers, providers, and users of this software, and conditions to all your licenses under these terms.  You must not do anything with this software that triggers a rule you cannot or will not follow.
 
 ## Enforcement
 Any contributor to this software, anyone with a license under these terms, and any user of this software or software services provided with it can enforce any rule of these terms.
