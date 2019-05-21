@@ -72,19 +72,16 @@ You must disclose all of any other user's data, on their request.  A user's data
 You must disclose complete and accurate answers to all the following questions from other users relying on this software:
 
 #### Processing
-
 1.  What architecture, operating system, and other specifications would they need to procure a system to run this software as you have?
 
 2.  What configuration would they need to configure such a system to run this software as you do?
 
 #### Networking
-
 1.  What are the network addresses of the systems you are using to process their data?
 
 2.  What organizations, like Internet service providers, have custody over the systems connecting the systems processing their data to the systems they use to interact with them?
 
 #### Environment
-
 1.  Which legal jurisdictions govern your processing of their data?
 
 2.  What organizations, like employers, have control of your processing of their data with this software?
