@@ -24,7 +24,7 @@ Control over software run by others must follow three principles:
 - _Accountability_:  Those who mislead you must face consequences.
 - _Independence_:  If you decide that others aren't running this software for you as you would for yourself, you must be able to switch to running this software for yourself, or to having someone different do so for you.
 
-Rights under these terms apply principles to each element of computing, [Software](#software), [Data](#data), [Processing](#processing), [Networking](#networking), and [Environment](#environment), backed by [a general rule against interference](#noninterference).  The rules sound in a number of themes:
+Rights under these terms apply principles to each element of computing, software](#software), data, processing, networking, and environment, backed by a general rule against interference.  The rules sound in a number of themes:
 
 -  _Disclosure_:  You must have information about the storage, processing, and communication of your data, as well as the environment in which those occur.
 
