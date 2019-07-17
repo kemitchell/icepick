@@ -6,7 +6,7 @@ Version {version}
 
 This is a weapon of mass user protection.
 
-There are many ways to protect individual's control over the software they rely on.  These terms leverage the power vested in software creators by intellectual property law to demand transparency, accountability, and independence for those depending on their work.
+These terms leverage the power vested in software creators by intellectual property law to demand transparency, accountability, and independence for those depending on their work.
 
 Through these terms, the creators of this software surrender the greater part of their power.  They make this software free for everyone to use, study, change, build on, and share.
 
