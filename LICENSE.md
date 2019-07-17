@@ -6,11 +6,11 @@ Version {version}
 
 This is a weapon of mass user protection.
 
-These terms leverage the power vested in software creators by intellectual property law to demand transparency, accountability, and independence for those depending on their work.
+Software creators use these terms to leverage the power vested in them by intellectual property law to demand transparency, accountability, and independence for those depending on their work.
 
 Through these terms, the creators of this software surrender the greater part of their power.  They make this software free for everyone to run, study, change, build on, and share.
 
-They retain their power, and wield it through these terms, only to stop others misusing this software to deny you transparency, accountability, or control.  They invite and empower you to defend your rights and the rights of others.
+They retain their power, and wield it through these terms, only to stop others misusing this software to deny you transparency, accountability, or independence.  They invite and empower you to defend your rights and the rights of others.
 
 ## Agreement
 
@@ -18,37 +18,37 @@ In order to receive any license under these terms, you must agree to their rules
 
 ## Rights
 
-These rights ensure you and others the same level of control you would enjoy running the software for yourselves when the software is run for you by others.  In using this software, you must respect these rights of others, as they must respect these rights of yours.
+These terms ensure users the same control they would enjoy running this software when is instead run them by others as when they run it themselves.  In using this software, you must respect these rights for others, as they must respect them for you:
 
-### Principles
+- _Autonomy_:  Each user must have the same ability to run, study, change, build on, and share this software as others.
 
-When someone else runs this software for you, they must uphold three principles:
+- _Transparency_:  Each user must be able to tell if another is running this software for them as they would run it for themself.
 
-- _Transparency_:  You must be able to tell if they are running this software for you as you would run it for yourself.
+- _Accountability_:  If any user misleads another, they must face consequences.
 
-- _Accountability_:  If they mislead you, they must face consequences.
+- _Independence_:  Each user must be able to switch to running this software for themself, or to having someone different run it for them, without interruption, reduced quality of service, legal risk, or discriminatory cost.
 
-- _Independence_:  If you decide that they aren't running this software for you as you would run it for yourself, you must be able to switch to running this software for yourself, or to having someone different run it for you, without reduction in quality of service.
+## Implications
 
-### Requirements
+Taken together, user rights carry these implications:
 
-Taken together, the principles impose a number of requirements:
+-  _Disclosure_:  On request, each user must be given the information they need to enjoy autonomy.
 
--  _Disclosure_:  On request, you must be given information about the processing, storage, and transmission of your data, the environments in which that occurs, and the software used to accomplish it. <!-- the thing itself of sufficient information to procure it --> <!-- verify identity -->
+-  _Permission_:  On request, each user must be given the permission they need to enjoy autonomy.
 
--  _Completeness_:  You must have all information necessary to assess whether others are running this software for you as you would run it for yourself.
+-  _Completeness_:  Each user must be given all information and all permission needed to achieve every aspect of autonomy.
 
--  _Practicality_:  You must have that information in the most practical formats, such as those this software can process. <!-- must be able to get practical deal for, say, rented computer and network -->
+-  _Practicality_:  Users must receive information and permission in the most practical forms for exercising their autonomy.
 
--  _Permission_:  You must have all necessary permission to use that information.
+-  _Nondiscrimination_:  When autonomy entails a commercial transaction for some element of computing, such as a service contract, that transaction must be practically available to the user on nondiscriminatory price and other terms. 
 
-- _Responsiveness_:  <!-- available, communication method -->
+-  _Responsiveness_:  Users must be given information through self-service functionality of this software when available, and otherwise promptly.
 
--  _Noninterference_:  Your must be allowed to enjoy the benefit of the principles and these requirements, without technical, practical, legal, or other interference.<!--  When this software meets this requirement through built-in functionality, that functionality must not be removed, disabled, or impeded.-->
+-  _Noninterference_:  Users must be allowed to enjoy the benefits of autonomy without technical, practical, legal, or other interference.
 
-### Elements
+## Elements
 
-The principles and their requirements apply to every element of computing:
+Users' rights apply to every element of computing:
 
 - _Software_:  all source code, tools, configuration, and other computer code used to run, study, change, build on, and share this software
 
@@ -59,26 +59,6 @@ The principles and their requirements apply to every element of computing:
 - _Connectivity_:  all hardware, physical or virtual, and rights necessary to connect to software and data to communications networks
 
 - _Jurisdiction_:  the legal environments governing the software, data, processing, and connectivity used to run the software for you
-
-#### Processing
-
-1.  What architecture, operating system, and other specifications would they need to procure a system to run this software as you have?
-
-2.  What configuration would they need to configure such a system to run this software as you do?
-
-#### Networking
-
-1.  What are the network addresses of the systems you are using to process their data?
-
-2.  What organizations, like Internet service providers, have custody over the systems connecting the systems processing their data to the systems they use to interact with them?
-
-#### Environment
-
-1.  Which legal jurisdictions govern your processing of their data?
-
-2.  What organizations, like employers, have control of your processing of their data with this software?
-
-3.  What organizations, like computing platform providers, have custody or control over the systems processing their data?
 
 ## Enforcement
 
