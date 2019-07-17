@@ -40,9 +40,9 @@ Applied together, user rights imply:
 
 -  _Practicality_:  Users must receive information and permission in the most practical forms for exercising their autonomy.
 
--  _Nondiscrimination_:  When autonomy entails a commercial transaction, such as an equipment purchase or service contract, that transaction must be broadly available on nondiscriminatory price and other terms. 
-
 -  _Responsiveness_:  Users must be given information and permission promptly, through self-service functionality of this software when available.
+
+-  _Nondiscrimination_:  When autonomy entails a commercial transaction, such as an equipment purchase or service contract, that transaction must be broadly available on nondiscriminatory price and other terms. 
 
 -  _Noninterference_:  Users must be allowed to exercise autonomy without technical, practical, legal, or other interference.
 
