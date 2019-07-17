@@ -18,7 +18,7 @@ In order to receive any license under these terms, you must agree to their rules
 
 ## Rights
 
-The purpose of these rights is to ensure you and others the same level of control you would enjoy running the software for yourselves when it is run for you by others.  In using this software, you must respect these rights of others, as they must respect these rights of yours.
+The purpose of these rights is to ensure you and others the same level of control you would enjoy running the software for yourselves when the software is run for you by others.  In using this software, you must respect these rights of others, as they must respect these rights of yours.
 
 ### Framework
 
