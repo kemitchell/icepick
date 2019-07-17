@@ -10,7 +10,7 @@ These terms leverage the power vested in software creators by intellectual prope
 
 Through these terms, the creators of this software surrender the greater part of their power.  They make this software free for everyone to use, study, change, build on, and share.
 
-They retain their power, and wield it through these terms, only to stop others misusing this software to deny you transparency, accountability, or control.  They invite and empower you to defend your rights for yourself.
+They retain their power, and wield it through these terms, only to stop others misusing this software to deny you transparency, accountability, or control.  They invite and empower you to defend your rights and the rights of others.
 
 ## Agreement
 
