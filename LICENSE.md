@@ -1,7 +1,9 @@
 # Icepick
+
 Version {version}
 
 ## Purpose
+
 This is a weapon of mass user protection.
 
 There are many ways to protect individual's control over the software they rely on.  These terms leverage the power vested in software creators by intellectual property law to demand transparency, accountability, and independence for those depending on their work.
@@ -11,12 +13,15 @@ Through these terms, the creators of this software surrender the greater part of
 They retain their power, and wield it through these terms, only to stop others misusing this software to deny you transparency, accountability, or control.  They invite and empower you to defend your rights for yourself.
 
 ## Agreement
+
 In order to receive any license under these terms, you must agree to their rules.  Those rules are both obligations under an agreement among developers, distributors, and users of this software, and conditions to all your licenses under these terms.  You must not do anything with this software that triggers a rule you cannot or will not follow.
 
 ## Rights
+
 The purpose of these rights is to ensure you and others the same level of control you would enjoy running the software for yourselves when it is run for you by others.  In using this software, you must respect these rights of others, as they must respect these rights of yours.
 
 ### Framework
+
 Control over software run by others must follow three principles:
 
 - _Transparency_:  You must be able to tell if others are running this software for you as you would run it for yourself.
@@ -38,17 +43,21 @@ Rules of these terms apply these principles to each element of computing---softw
 -  _Noninterference_:  You must not be stopped receiving or using this software, your data, or the information you require.
 
 ### Noninterference
+
 When you can honor the right of a user under these terms with existing functionality of this software, you must do so.  You may not disable or limit such functionality without adding substitute functionality at least as effective and convenient.  You may not use other technical, legal, or practical means to stop others from using such functionality effectively and conveniently.  Nor may you use technical, legal, or practical means to stop others from exercising their rights by other means.
 
 ### Software
 
 #### Copyleft
+
 With the sole exception of prototypes, you must contribute all changes and additions to this software, as well as all software that invokes this software's functionality.
 
 #### Prototypes
+
 You need not contribute prototype changes, extensions, or other software that you do not use for more than fourteen calendar days, share with anyone else, or use to process anyone else's data.
 
 #### Contributing
+
 When these terms require you to contribute software, take all the following steps within thirty calendar days of creating or using that software for the first time:
 
 1.  Publish all source code for the software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so others can find and access it.
@@ -60,6 +69,7 @@ When these terms require you to contribute software, take all the following step
 4.  Ensure that each part of the source code that you can't license, such as work by others, is available on standardized, gratis public license terms that permit using, studying, changing, building on, and sharing together as part of this software, under these terms.
 
 ### Data
+
 You must disclose all of any other user's data, on their request.  A user's data includes:
 
 1.  Data they have provided to this software, which this software has stored.
@@ -69,19 +79,23 @@ You must disclose all of any other user's data, on their request.  A user's data
 3.  Data required, in addition to 1 and 2, for the user to provide the same functionality running the software for themself that you have provided running the software for them.
 
 ### Transparency
+
 You must disclose complete and accurate answers to all the following questions from other users relying on this software:
 
 #### Processing
+
 1.  What architecture, operating system, and other specifications would they need to procure a system to run this software as you have?
 
 2.  What configuration would they need to configure such a system to run this software as you do?
 
 #### Networking
+
 1.  What are the network addresses of the systems you are using to process their data?
 
 2.  What organizations, like Internet service providers, have custody over the systems connecting the systems processing their data to the systems they use to interact with them?
 
 #### Environment
+
 1.  Which legal jurisdictions govern your processing of their data?
 
 2.  What organizations, like employers, have control of your processing of their data with this software?
@@ -89,6 +103,7 @@ You must disclose complete and accurate answers to all the following questions f
 3.  What organizations, like computing platform providers, have custody or control over the systems processing their data?
 
 #### Disclosure
+
 When these terms require you to disclose information:
 
 1.  Take reasonable steps to verify the identity of the requesting user.
@@ -100,25 +115,33 @@ When these terms require you to disclose information:
 4.  License, disclaim, or dedicate to the public domain all exclusive rights you may have in the information.
 
 ## Enforcement
+
 Any contributor to this software, anyone with a license under these terms, and any user of this software or software services provided with it can enforce any rule of these terms by seeking an order to stop breach of the rule, and order to comply with the rule, money compensation, or any combination.
 
 ## Legality
+
 The law qualifies every rule of these terms.  If following a rule absolutely would break the law, these terms only require you to follow the rule to the extent you can legally.  If any adjudicator of these terms decides that any rule is completely unenforceable in its jurisdiction, but enforcing the rest would not defeat the purpose of these terms, the rest of these terms will still apply.
 
 ## Copyright
+
 Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it, so long as you respect [the rights of others under these terms](#rights).
 
 ## Notices
+
 You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of these terms or a link to <{url}>.
 
 ## Excuse
+
 If anyone notifies you in writing that you have broken any rule of these terms, you can remain a part of the agreement, and keep your licenses under it, by taking all practical steps to comply within 30 days after the notice.  If you do not do so, your participation in the agreement, and all your licenses under these terms, end immediately.
 
 ## Patent
+
 Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license, so long as you respect [the rights of others under these terms](#rights).
 
 ## Reliability
+
 No contributor can revoke any license under these terms.
 
 ## No Liability
+
 ***As far as the law allows, this software comes as is, without any warranty or condition, and no contributor will be liable to anyone for any damages related to this software or these terms, under any kind of legal claim, except claims against contributors for breaking the rules of these terms.***
