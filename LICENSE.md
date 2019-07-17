@@ -6,59 +6,59 @@ Version {version}
 
 This is a weapon of mass user protection.
 
-Software creators use these terms to leverage the power vested in them by intellectual property law to demand transparency, accountability, and independence for those depending on their work.
+Software creators use these terms to leverage the power vested in them by intellectual property law to demand transparency, accountability, and independence for those relying on their work.
 
 Through these terms, the creators of this software surrender the greater part of their power.  They make this software free for everyone to run, study, change, build on, and share.
 
-They retain their power, and wield it through these terms, only to stop others misusing this software to deny you transparency, accountability, or independence.  They invite and empower you to defend your rights and the rights of others.
+They retain their power, and wield it through these terms, only to stop users misusing this software to deny others transparency, accountability, or independence.  They invite and empower you to defend those rights for yourself and others.
 
 ## Agreement
 
-In order to receive any license under these terms, you must agree to their rules.  Those rules are both obligations under an agreement among developers, distributors, and users of this software, and conditions to all your licenses under these terms.  You must not do anything with this software that triggers a rule you cannot or will not follow.
+In order to receive any license under these terms, you must agree to their rules.  Those rules are both obligations under an agreement among users of this software and conditions to all your licenses under these terms.  You must not do anything with this software that triggers a rule you cannot or will not follow.
 
 ## Rights
 
-These terms ensure users the same control they would enjoy running this software when is instead run them by others as when they run it themselves.  In using this software, you must respect these rights for others, as they must respect them for you:
+These terms ensure each user the same control they would enjoy running this software for themself when they instead rely on others to run it for them.  In using this software, you must respect these rights for others, as they must respect them for you:
 
-- _Autonomy_:  Each user must have the same ability to run, study, change, build on, and share this software as others.
+- _Autonomy_:  Each user must have the same ability to run, study, change, build on, and share this software.
 
 - _Transparency_:  Each user must be able to tell if another is running this software for them as they would run it for themself.
 
 - _Accountability_:  If any user misleads another, they must face consequences.
 
-- _Independence_:  Each user must be able to switch to running this software for themself, or to having someone different run it for them, without interruption, reduced quality of service, legal risk, or discriminatory cost.
+- _Independence_:  Each user must be able to switch to running this software for themself, or to having someone different run it for them, without significant interruption, quality of service loss, legal risk, or cost discrimination.
 
 ## Implications
 
-Taken together, user rights carry these implications:
+Applied together, user rights imply:
 
--  _Disclosure_:  On request, each user must be given the information they need to enjoy autonomy.
+-  _Disclosure_:  On request, each user must be given the information they need to exercise their autonomy.
 
--  _Permission_:  On request, each user must be given the permission they need to enjoy autonomy.
+-  _Permission_:  On request, each user must be given the permission they need to exercise their autonomy.
 
--  _Completeness_:  Each user must be given all information and all permission needed to achieve every aspect of autonomy.
+-  _Completeness_:  The information and permission users receive must be sufficient to exercise every aspect of autonomy.
 
 -  _Practicality_:  Users must receive information and permission in the most practical forms for exercising their autonomy.
 
--  _Nondiscrimination_:  When autonomy entails a commercial transaction for some element of computing, such as a service contract, that transaction must be practically available to the user on nondiscriminatory price and other terms. 
+-  _Nondiscrimination_:  When autonomy entails a commercial transaction, such as an equipment purchase or service contract, that transaction must be broadly available on nondiscriminatory price and other terms. 
 
--  _Responsiveness_:  Users must be given information through self-service functionality of this software when available, and otherwise promptly.
+-  _Responsiveness_:  Users must be given information and permission promptly, through self-service functionality of this software when available.
 
--  _Noninterference_:  Users must be allowed to enjoy the benefits of autonomy without technical, practical, legal, or other interference.
+-  _Noninterference_:  Users must be allowed to exercise autonomy without technical, practical, legal, or other interference.
 
 ## Elements
 
-Users' rights apply to every element of computing:
+User rights apply to every element of computing:
 
-- _Software_:  all source code, tools, configuration, and other computer code used to run, study, change, build on, and share this software
+- _Software_:  all source code, tools, configuration, and other material used to run the software for the user
 
-- _Data_:  all data you provide to the software, data the software collects about you, and additional data the software uses to derive additional data or functionality from those data
+- _Data_:  all data the user provides to the software, data the software collects about the user, and additional data the software uses to derive additional data or functionality from those data
 
-- _Processing_:  all computer hardware, physical or virtual, used to run the software for you
+- _Processing_:  all computer hardware, physical or virtual, used to run the software for the user
 
-- _Connectivity_:  all hardware, physical or virtual, and rights necessary to connect to software and data to communications networks
+- _Connectivity_:  all hardware, physical or virtual, and rights necessary to connect software and data to communications networks
 
-- _Jurisdiction_:  the legal environments governing the software, data, processing, and connectivity used to run the software for you
+- _Jurisdiction_:  the legal systems and permissions governing the other elements of computing
 
 ## Enforcement
 
