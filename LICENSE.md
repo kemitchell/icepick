@@ -34,7 +34,7 @@ Applied together, user rights imply:
 
 -  _Disclosure_:  On request, each user must be given the information they need to exercise their autonomy.
 
--  _Permission_:  On request, each user must be given the permission they need to exercise their autonomy.
+-  _Permission_:  On request, each user must be given the permission they need to exercise their autonomy, under these terms for all software.
 
 -  _Completeness_:  The information and permission users receive must be sufficient to exercise every aspect of autonomy.
 
