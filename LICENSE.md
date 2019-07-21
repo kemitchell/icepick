@@ -18,7 +18,7 @@ In order to receive any license under these terms, you must agree to their rules
 
 ## Rights
 
-These terms ensure each user's rights to the same control they would enjoy running this software for themself when they instead rely on others to run it for them.  In using this software, you must respect those rights for others, as they must respect them for you:
+These terms ensure each user's rights to the same control they would enjoy running this software for themself when they instead rely on others to run it for them.  In using this software, you must respect those rights for others, as they must respect those rights for you:
 
 - _Autonomy_:  Each user must have the same ability to run, study, change, build on, and share this software.
 
