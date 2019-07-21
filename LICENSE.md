@@ -38,7 +38,7 @@ Applied together, user rights imply:
 
 -  _Completeness_:  The information and permission users receive must be sufficient to exercise every aspect of autonomy.
 
--  _Practicality_:  Users must receive information and permission in the most practical forms for exercising their autonomy.
+-  _Practicality_:  Users must receive information and permission in the most practical forms for exercising their autonomy, in a form this software can process, if possible.
 
 -  _Responsiveness_:  Users must be given information and permission promptly, through self-service functionality of this software when available.
 
