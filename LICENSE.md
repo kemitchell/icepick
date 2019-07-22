@@ -28,7 +28,7 @@ These terms ensure each user's rights to the same control they would enjoy runni
 
 ## Duties
 
-Applied together, user rights imply:
+Applied together, user rights require:
 
 -  _Disclosure_:  On request, each user must be given the disclosure they need to exercise autonomy.
 
