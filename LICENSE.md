@@ -24,7 +24,7 @@ These terms ensure each user's rights to the same control they would enjoy runni
 
 - _Accountability_:  If any user misleads another, they must face consequences.
 
-- _Independence_:  Each user must be able to switch to running this software for themself, or to having someone different run it for them, without significant interruption, quality of service loss, legal risk, or cost discrimination.
+- _Independence_:  Each user must be able to switch to running this software for themself, or to having someone different run it for them, without significant interruption, quality of service loss, legal risk, or discrimination.
 
 ## Implications
 
