@@ -8,9 +8,9 @@ This is a weapon of mass user protection.
 
 Software creators use these terms to leverage the power vested in them by intellectual property law to demand transparency, accountability, and independence for those relying on their work.
 
-Through these terms, the creators of this software surrender the greater part of their power.  They make this software free for everyone to run, study, change, build on, and share.
+Through these terms, software creators surrender the greater part of their power.  They make their software free for everyone to run, study, change, build on, share, and rely upon.
 
-They retain their power, and wield it through these terms, only to stop users misusing this software to deny others transparency, accountability, or independence.  They invite and empower you to defend those rights for yourself and others.
+They retain their power, and wield it through these terms, only to stop users misusing their software to deny others transparency, accountability, or independence.  They invite and empower you to defend those rights for yourself and others.
 
 ## Agreement
 
