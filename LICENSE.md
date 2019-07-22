@@ -40,7 +40,7 @@ Applied together, user rights require:
 
 -  _Responsiveness_:  Users must be given disclosure and permission promptly, through self-service functionality of this software when available.
 
--  _Nondiscrimination_:  When autonomy entails a commercial transaction, such as an equipment purchase or service contract, that transaction must be broadly available on nondiscriminatory price and other terms. 
+-  _Nondiscrimination_:  When autonomy entails a transaction with another, such as an equipment purchase or service contract, that transaction must be broadly available on nondiscriminatory price and other terms. 
 
 -  _Noninterference_:  Users must be allowed to exercise autonomy without technical, practical, legal, or other interference.
 
