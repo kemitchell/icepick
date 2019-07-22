@@ -30,19 +30,19 @@ These terms ensure each user's rights to the same control they would enjoy runni
 
 Applied together, user rights require:
 
--  _Disclosure_:  On request, each user must be given the disclosure they need to exercise autonomy.
+-  _Disclosure_:  On request, each user must be given the disclosure they need to exercise autonomy and independence.
 
--  _Permission_:  On request, each user must be given the permission they need to exercise autonomy, under these terms for all software.
+-  _Permission_:  On request, each user must be given the permission they need to exercise autonomy and independence, under these terms for all software.
 
--  _Completeness_:  The disclosure and permission users receive must be sufficient to exercise every aspect of autonomy.
+-  _Completeness_:  The disclosure and permission users receive must be sufficient to exercise every aspect of autonomy and independence.
 
--  _Practicality_:  Users must receive disclosure and permission in the most practical forms for exercising autonomy, if possible in a form this software can process.
+-  _Practicality_:  Users must receive disclosure and permission in the most practical forms for exercising autonomy and independence, if possible in a form this software can process.
 
 -  _Responsiveness_:  Users must be given disclosure and permission promptly, through self-service functionality of this software when available.
 
--  _Nondiscrimination_:  When autonomy entails a transaction with another, such as an equipment purchase or service contract, that transaction must be broadly available on nondiscriminatory price and other terms. 
+-  _Nondiscrimination_:  When exercising autonomy or independence entails a transaction with another, such as an equipment purchase or service contract, that transaction must be broadly available on nondiscriminatory price and other terms. 
 
--  _Noninterference_:  Users must be allowed to exercise autonomy without technical, practical, legal, or other interference.
+-  _Noninterference_:  Users must be allowed to exercise autonomy and independence without technical, practical, legal, or other interference.
 
 ## Elements
 
