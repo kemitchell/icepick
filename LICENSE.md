@@ -30,13 +30,13 @@ These terms ensure each user's rights to the same control they would enjoy runni
 
 Applied together, user rights imply:
 
--  _Disclosure_:  On request, each user must be given the disclosure they need to exercise their autonomy.
+-  _Disclosure_:  On request, each user must be given the disclosure they need to exercise autonomy.
 
--  _Permission_:  On request, each user must be given the permission they need to exercise their autonomy, under these terms for all software.
+-  _Permission_:  On request, each user must be given the permission they need to exercise autonomy, under these terms for all software.
 
 -  _Completeness_:  The disclosure and permission users receive must be sufficient to exercise every aspect of autonomy.
 
--  _Practicality_:  Users must receive disclosure and permission in the most practical forms for exercising their autonomy, in a form this software can process, if possible.
+-  _Practicality_:  Users must receive disclosure and permission in the most practical forms for exercising autonomy, in a form this software can process, if possible.
 
 -  _Responsiveness_:  Users must be given disclosure and permission promptly, through self-service functionality of this software when available.
 
