@@ -26,7 +26,7 @@ These terms ensure each user's rights to the same control they would enjoy runni
 
 - _Independence_:  Each user must be able to switch to running this software for themself, or to having someone different run it for them, without significant interruption, quality of service loss, legal risk, or discrimination.
 
-## Implications
+## Duties
 
 Applied together, user rights imply:
 
