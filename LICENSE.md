@@ -32,7 +32,7 @@ Applied together, user rights require:
 
 -  _Disclosure_:  On request, each user must be given the disclosure they need to exercise autonomy and independence.
 
--  _Permission_:  On request, each user must be given the permission they need to exercise autonomy and independence, under these terms for all software.
+-  _Permission_:  On request, each user must be given the permission they need to exercise autonomy and independence.  For software, that means permission under these terms.
 
 -  _Completeness_:  The disclosure and permission users receive must be sufficient to exercise every aspect of autonomy and independence.
 
