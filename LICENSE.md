@@ -58,9 +58,9 @@ User rights apply to every element of computing:
 
 - _Jurisdiction_:  the legal systems and permissions governing the other elements of computing
 
-## Reading
+## Backstop
 
-Whenever these terms seem unclear, read them in favor of users.
+Whenever these terms prove unclear, read them in favor of users.
 
 ## Enforcement
 
