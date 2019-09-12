@@ -64,7 +64,7 @@ Whenever these terms prove unclear, read them in favor of users.
 
 ## Enforcement
 
-Any contributor to this software, anyone with a license under these terms, and any user of this software or software services provided with it can enforce any rule of these terms by seeking a judicial order to stop breach of the rule, and order to comply with the rule, money compensation, or any combination.
+Any contributor to this software, anyone with a license under these terms, and any user of this software or software services provided with it can enforce any rule of these terms by seeking judicial orders to stop breach, orders to comply, money compensation, or any combination of these.
 
 ## Legality
 
