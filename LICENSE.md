@@ -1,6 +1,4 @@
-# Icepick
-
-Development Draft
+# Icepick 1.0.0
 
 ## Purpose
 
@@ -76,7 +74,7 @@ Each contributor licenses you to do everything with this software that would oth
 
 ## Notices
 
-You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of these terms or a link to <{url}>.
+You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of these terms or a link to <https://icepicklicense.com/versions/1.0.0>.
 
 ## Excuse
 
