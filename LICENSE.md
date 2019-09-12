@@ -80,7 +80,7 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 ## Excuse
 
-If anyone notifies you in writing that you have broken any rule of these terms, you can remain a part of the agreement, and keep your licenses under it, by taking all practical steps to comply within 30 days after the notice.  If you do not do so, your participation in the agreement, and all your licenses under these terms, end immediately.
+If anyone notifies you in writing that you have broken any rule of these terms, you can remain a part of the agreement, and keep your licenses under it, by taking all practical steps to comply within thirty days after the notice.  If you do not do so, your participation in the agreement, and all your licenses under these terms, end immediately.
 
 ## Patent
 
