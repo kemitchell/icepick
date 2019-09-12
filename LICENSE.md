@@ -92,4 +92,4 @@ No contributor can revoke any license under these terms.
 
 ## No Liability
 
-***As far as the law allows, this software comes as is, without any warranty or condition, and no contributor will be liable to anyone for any damages related to this software or these terms, under any kind of legal claim, except claims against contributors for breaking the rules of these terms.***
+***As far as the law allows, this software comes as is, without any warranty or condition, and no contributor will be liable to anyone for any damages related to this software or these terms under any kind of legal claim, except claims for breaking the rules of these terms.***
