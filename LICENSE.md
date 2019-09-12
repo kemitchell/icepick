@@ -36,7 +36,7 @@ Applied together, user rights require:
 
 -  _Completeness_:  The disclosure and permission users receive must be sufficient to exercise every aspect of autonomy and independence.
 
--  _Practicality_:  Users must receive disclosure and permission in the most practical forms for exercising autonomy and independence, if possible in a form this software can process.
+-  _Practicality_:  Users must receive disclosure and permission in the most practical forms for exercising autonomy and independence, and in a form this software can process, if possible.
 
 -  _Responsiveness_:  Users must be given disclosure and permission promptly, through self-service functionality of this software when available.
 
