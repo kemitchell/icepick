@@ -1,6 +1,6 @@
 # Icepick
 
-Version {version}
+Development Draft
 
 ## Purpose
 
