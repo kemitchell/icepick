@@ -68,7 +68,7 @@ Any contributor to this software, anyone with a license under these terms, and a
 
 ## Legality
 
-The law qualifies every rule of these terms.  If following a rule absolutely would break the law, these terms only require you to follow the rule to the extent you can legally.  If any adjudicator of these terms decides that any rule is completely unenforceable in its jurisdiction, but enforcing the rest would not defeat the purpose of these terms, the rest of these terms will still apply.
+The law qualifies every rule of these terms.  If following a rule absolutely would break the law, these terms only require you to follow the rule to the extent you can legally.  If any court or other adjudicator of these terms decides that any rule is completely unenforceable in its jurisdiction, but enforcing the rest would not defeat the purpose of these terms, the rest of these terms will still apply.
 
 ## Copyright
 
