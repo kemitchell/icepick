@@ -6,9 +6,9 @@ Development Draft
 
 This is a weapon of mass user protection.
 
-Software creators use these terms to leverage the power vested in them by intellectual property law to demand transparency, accountability, and independence for those who rely on their work.
+Software creators choose these terms to leverage the power vested in them by intellectual property law to demand transparency, accountability, and independence for those who use their work.
 
-Through these terms, software creators surrender the greater part of their power.  They make their software free for everyone to run, study, change, build on, share, and rely upon.  They retain their power, and wield it through these terms, only to stop users misusing their software to deny others transparency, accountability, or independence.  They invite and empower you to defend those rights for yourself, and for others.
+Through these terms, software creators surrender the greater part of their power.  They make their software free for everyone to use---to run, study, change, build on, and share.  They retain their power, and wield it through these terms, only to stop users misusing their software to deny others transparency, accountability, or independence.  They invite and empower you to defend those rights for yourself, and for others.
 
 ## Agreement
 
@@ -16,7 +16,7 @@ In order to receive any license under these terms, you must agree to their rules
 
 ## Rights
 
-These terms ensure each user's rights to the same control they would enjoy running this software for themself when they instead rely on others to run it for them.  In using this software, you must respect those rights for others, as they must respect those rights for you:
+These terms ensure each user's rights to the same control they would enjoy running this software for themself when they instead rely on others to run it for them.  In running, studying, changing, building on, and sharing this software, you must respect those rights for other users, as they must respect those rights for you:
 
 - _Autonomy_:  Each user must have the same ability to run, study, change, build on, and share this software.
 
